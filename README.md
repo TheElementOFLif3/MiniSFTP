@@ -1,3 +1,6 @@
+
+<img width="958" height="910" alt="SCR-20251211-syjc" src="https://github.com/user-attachments/assets/2cdd4960-9dc3-4239-afd4-f8281e0260e9" />
+
 # Mini FTP / SFTP Client (macOS)
 
 Minimalistic FTP / SFTP (SSH) client written in Python with a simple GUI.
