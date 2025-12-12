@@ -92,5 +92,3 @@ Use it at your own risk.
 
 ---
 
-**Author:** Aleksandar  
-**Repository:** GitHub  
